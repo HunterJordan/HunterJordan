@@ -1,11 +1,10 @@
 ### Hi there 👋
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hi, I'm Hunter! I'm a entry level data scientist who is passionate about building data-intensive applications and overcoming complex architechual and scalability issues.
 
 - ⚡ Currently learning and acquiring any and all skills related to data science
 - 🏫 Recent graduate from Lambda School's Data Science program
 - 📝 Goals: Refining my skills in Data Science and stepping into the coding industry
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :email: Find me on:
 
@@ -19,7 +18,6 @@ Hi, I'm Hunter! I'm a entry level data scientist who is passionate about buildin
  <a href="mailto:hunterg96@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 
 </p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧰 Languages and Tools:
 <p align="center">
