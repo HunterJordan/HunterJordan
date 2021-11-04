@@ -5,8 +5,14 @@ Hi, I'm Hunter! I'm a entry level data scientist who is passionate about buildin
 - ⚡ Currently learning and acquiring any and all skills related to data science
 - 🏫 Recent graduate from Lambda School's Data Science program
 - 📝 Goals: Refining my skills in Data Science and stepping into the coding industry
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :email: Find me on:
 
-------------------------------------------------------------------
+<!--
+[<img align="left" alt="HunterJordan | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HunterJordan | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
