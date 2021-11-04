@@ -30,3 +30,24 @@ Hi, I'm Hunter! I'm a entry level data scientist who is passionate about buildin
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+ 
+ ## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=hunterjordan&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=hunterjordan&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=hunterjordan&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hunterjordan&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterjordan&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterjordan&hide=php&theme=tokyonight" />
+</a>
+</div>
+
+
+
+[website]: https://hunterjordan.github.io/
+[linkedin]: https://linkedin.com/in/hunterjordan
+[mail]: mailto:hunterg96@gmail.com
