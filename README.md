@@ -43,7 +43,7 @@ Hi, I'm Hunter! I'm a entry level data scientist who is passionate about buildin
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=hunterjordan&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterjordan&hide=php&theme=tokyonight">
- 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterjordan&hide=php&theme=tokyonight" />
 </a>
 </div>
 
